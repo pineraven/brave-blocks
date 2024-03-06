@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
-! Title: Custom Fin Adblocks
-! Description: Custom Finnish PineRaven adblock list for addiction
+! Title: Custom Fin URL Blocks
+! Description: Custom Finnish PineRaven website block list for addiction
 ! Expires: 4 days
-! Last modified: Wed, 06 Mar 2024 18:40:49 +0200
+! Last modified: Wed, 06 Mar 2024 19:05:44 +0200
 
 ! -----SPECIFIC FILTERS-----
 
