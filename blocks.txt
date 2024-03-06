@@ -2,12 +2,14 @@
 ! Title: Custom Fin Adblocks
 ! Description: Custom Finnish PineRaven adblock list for addiction
 ! Expires: 4 days
-! Last modified: %timestamp%
+! Last modified: Wed, 06 Mar 2024 18:40:49 +0200
 
 ! -----SPECIFIC FILTERS-----
 
 aamulehti.fi###__next
 hs.fi###__next
+is.fi###__next
+il.fi###app
 tamperelainen.fi##.diks-body
 
 ! -----SPECIFIC FILTERS END-----
