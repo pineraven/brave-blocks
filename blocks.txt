@@ -1,1 +1,13 @@
+[Adblock Plus 3.13]
+! Title: Custom Fin Adblocks
+! Description: Custom Finnish PineRaven adblock list for addiction
+! Expires: 4 days
+! Last modified: %timestamp%
+
+! -----SPECIFIC FILTERS-----
+
 aamulehti.fi###__next
+hs.fi###__next
+tamperelainen.fi##.diks-body
+
+! -----SPECIFIC FILTERS END-----
